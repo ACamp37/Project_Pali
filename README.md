@@ -1,2 +1,2 @@
 # CaseStudy
-A web application game made using JSP, Bootstrap, and JDBC.  
+A web application game made using JSP, Bootstrap, and JDBC.  Currently in Development. 
